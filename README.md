@@ -1,45 +1,30 @@
-# 👋 Hey, I'm Zakariya (Zaki)  
+# Zakariya Sharif
 
-🚀 **Crypto Educator | Web3 Content Creator | On-chain Analyst**  
-Founder of **Zakariya Academy** – empowering the Somali & global community with clear, practical crypto education.  
+**Crypto Educator | Web3 Content Creator | On-chain Analyst**
 
----
+Founder of **Zakariya Academy**, I am dedicated to empowering the Somali and global communities with clear, practical crypto education. My mission is to make comprehensive crypto knowledge accessible to everyone, fostering financial freedom through understanding.
 
-## 🏦 About Me
-- 📚 Teaching **Crypto & DeFi Fundamentals** in Somali + English  
-- 🎥 Content creator on **YouTube, Telegram & X** (15K+ community)  
-- 🔍 Passionate about **on-chain analysis, trading psychology, and security**  
-- 🌍 Mission: to make crypto education **accessible for everyone**  
+## About Me
 
----
+With a robust 100K+ community across YouTube, Telegram, and X, I specialize in teaching **Crypto & DeFi Fundamentals** in both Somali and English. My passion lies in **on-chain analysis, trading psychology, and security**, areas where I provide deep insights and actionable knowledge. Beyond market analysis, I am actively involved in **building the first Somali-language Web3 ecosystem**, driven by the belief that "You only lose if you sell."
 
-## ⚡ Skills & Tools
-- **On-Chain Analysis**: Nansen, Arkham, Breadcrumbs, SpotOnChain  
-- **Crypto Trading & DeFi**: Binance, Bybit, Hyperliquid, Solana ecosystem  
-- **Content Creation**: YouTube, Medium, Telegram, Canva, OBS  
-- **Tech**: Python (basics), Markdown, WordPress, Tutor LMS  
+## Expertise & Tools
 
----
+*   **On-Chain Analysis**: Proficient with Nansen, Arkham, Breadcrumbs, SpotOnChain.
+*   **Crypto Trading & DeFi**: Experienced across platforms like Binance, Bybit, Hyperliquid, and the Solana ecosystem.
+*   **Content Creation**: Skilled in producing engaging content for YouTube, Medium, Telegram, utilizing tools such as Canva and OBS.
+*   **Technical Skills**: Foundational understanding of Python, Markdown, WordPress, and Tutor LMS.
 
-## 📌 Featured Projects
-- 🎓 [Zakariya Academy](https://zakariyaacademy.com) – Bilingual crypto courses & resources  
-- 📊 **Smart Money Flow Reports** – Daily insights on whales & institutional moves  
-- 🎥 **Crypto Content Hub** – 500+ videos educating the Somali community in Web3  
+## Key Initiatives
 
----
+*   **Zakariya Academy**: Providing bilingual crypto courses and educational resources at [zakariyaacademy.com](https://zakariyaacademy.com ).
+*   **Smart Money Flow Reports**: Delivering daily insights into whale and institutional movements.
+*   **Crypto Content Hub**: Over 500 educational videos dedicated to bringing Web3 knowledge to the Somali community.
 
-## 🌐 Connect With Me
-- 🐦 [Twitter/X](https://x.com/zakariyasharif9)  
-- 🎥 [YouTube](https://youtube.com/@ZakariyaAcademy1)  
-- 💬 [Telegram](https://t.me/ZakariyaAcademy1)  
-- 🌍 [Website](https://zakariyaacademy.com)  
+## Connect With Me
 
----
-
-## 💡 Fun Fact
-When I’m not analyzing markets or teaching crypto, I’m **helping build the first Somali-language Web3 ecosystem**. 🌍✨  
-I believe in **financial freedom through knowledge** — *“You only lose if you sell.”*  
-
----
-# zakariya
-Personal profile README for Zakariya Sharif | Crypto Educator &amp; Web3 Builder
+*   [LinkedIn](https://www.linkedin.com/in/zakariyasharif/ )
+*   [Twitter/X](https://x.com/zakariyasharif9 )
+*   [YouTube](https://youtube.com/@ZakariyaAcademy1 )
+*   [Telegram](https://t.me/ZakariyaAcademy1 )
+*   [Website](https://zakariyaacademy.com )
